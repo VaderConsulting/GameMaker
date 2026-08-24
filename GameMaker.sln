@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Helper", "Helper\Helper.vbproj", "{DCBD2A69-A58A-4C68-8D61-CCF9BE95D40B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test", "Test\Test.vbproj", "{5C478B5B-C3EC-4D5A-92A7-C26B4D31DAA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBD2A69-A58A-4C68-8D61-CCF9BE95D40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBD2A69-A58A-4C68-8D61-CCF9BE95D40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBD2A69-A58A-4C68-8D61-CCF9BE95D40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBD2A69-A58A-4C68-8D61-CCF9BE95D40B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C478B5B-C3EC-4D5A-92A7-C26B4D31DAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C478B5B-C3EC-4D5A-92A7-C26B4D31DAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C478B5B-C3EC-4D5A-92A7-C26B4D31DAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C478B5B-C3EC-4D5A-92A7-C26B4D31DAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

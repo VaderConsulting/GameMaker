@@ -22,6 +22,10 @@ VB.NET 3.5 working copy whose `Helper` library (`RootNamespace` GameMaker, assem
 
 Open `GameMaker.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft

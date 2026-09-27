@@ -28,6 +28,7 @@ Open `GameMaker.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `GameMaker`.
 - **Assembly company:** Microsoft
 - **Assembly copyright:** Copyright © Microsoft 2009
 
